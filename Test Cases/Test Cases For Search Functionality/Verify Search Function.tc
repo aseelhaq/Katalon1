@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify Search Function</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>77428e51-08df-498c-b94f-bb49f202c76f</testCaseGuid>
+</TestCaseEntity>

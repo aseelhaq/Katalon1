@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify Login success after Registeration with Valid data</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dbc1cb55-c0c2-492d-820f-87147334e848</testCaseGuid>
+</TestCaseEntity>

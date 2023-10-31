@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Password should be between 6 and 30 characters</name>
+   <tag></tag>
+   <elementGuidId>88ad4ec3-9529-4085-9c48-73ca5fe5895f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div/form/div/div[2]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>43bb94e8-e1de-476f-bcbf-11a969bcea74</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>invalid-feedback</value>
+      <webElementGuid>92f90779-965a-4c82-8372-4455163ad978</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Password should be between 6 and 30 characters</value>
+      <webElementGuid>a50e2297-de20-4383-9d2c-d6888d0d0faa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row mt-1&quot;]/div[@class=&quot;col-lg-6 col-md-9 m-auto rounded&quot;]/form[@class=&quot;py-3 px-3&quot;]/div[@class=&quot;row my-0&quot;]/div[@class=&quot;col-md-6&quot;]/div[@class=&quot;form-group mb-2&quot;]/div[@class=&quot;invalid-feedback&quot;]</value>
+      <webElementGuid>14053c14-8799-4b9f-b2b3-a87622f421a0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/form/div/div[2]/div/div</value>
+      <webElementGuid>34c8e2b3-c50c-49a0-8c54-83cb7200a1d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/following::div[1]</value>
+      <webElementGuid>ff5937c2-a68a-4980-94c9-98c6acc15394</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Name'])[1]/following::div[4]</value>
+      <webElementGuid>919d855a-4fa3-468c-b47f-210bba03915a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Confirm Password'])[1]/preceding::div[1]</value>
+      <webElementGuid>25255c80-937e-4d88-925c-2d308144f507</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Register'])[2]/preceding::div[3]</value>
+      <webElementGuid>8653cf77-e1c9-44d8-af40-3bcd3a0a09bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Password should be between 6 and 30 characters']/parent::*</value>
+      <webElementGuid>6c23d1bb-829f-491b-849a-30f2719cca90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div</value>
+      <webElementGuid>902c7ec9-80a9-4695-b372-aa759fa731b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Password should be between 6 and 30 characters' or . = 'Password should be between 6 and 30 characters')]</value>
+      <webElementGuid>cffa1b8f-afae-4421-a392-b5d5236d1ffb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

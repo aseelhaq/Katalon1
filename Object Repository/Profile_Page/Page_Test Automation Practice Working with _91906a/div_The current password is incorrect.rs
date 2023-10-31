@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_The current password is incorrect</name>
+   <tag></tag>
+   <elementGuidId>72fd516b-6fd3-447b-917b-6f27a358885e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.toast-body</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/div/div/div/div/div/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>188d20fb-3a56-4674-bbf5-1ef47d7bf4c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>alert-message</value>
+      <webElementGuid>637c79cd-00dd-4c89-ad1d-a5da58197ea5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>toast-body</value>
+      <webElementGuid>72a0b6c0-12e2-433b-b832-5e3c81a4e100</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>The current password is incorrect</value>
+      <webElementGuid>b4a53b53-27be-4df2-89a0-48f29272d30f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-9 col-lg-7&quot;]/div[@class=&quot;tab-content mt-3&quot;]/div[@class=&quot;tab-pane active&quot;]/div[1]/div[1]/div[@class=&quot;mt-1 ms-1 me-1 mb-1&quot;]/div[@class=&quot;w-100 toast align-items-center text-white bg-danger border-0 show&quot;]/div[@class=&quot;d-flex&quot;]/div[@class=&quot;toast-body&quot;]</value>
+      <webElementGuid>a4cf9285-d72a-4a2a-a6b5-53cc82879742</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div/div/div/div/div/div/div/div/div</value>
+      <webElementGuid>3abe6116-a7d2-4d1d-bc1a-18d30cf90cf9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Change password'])[1]/following::div[8]</value>
+      <webElementGuid>bad290f8-b00b-4625-b129-95fbe4a8778e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Account details'])[1]/following::div[8]</value>
+      <webElementGuid>fbe6b090-9f29-4fc2-aecf-9c3782103c34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Current password'])[1]/preceding::div[1]</value>
+      <webElementGuid>82e501d2-22bb-457d-b65d-8e56a62e8a95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New password'])[1]/preceding::div[3]</value>
+      <webElementGuid>b880e928-f9e3-4802-ab40-98486f7bd860</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='The current password is incorrect']/parent::*</value>
+      <webElementGuid>2916d34d-0875-464a-ab30-1ade1d964063</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div/div/div/div/div</value>
+      <webElementGuid>3119edc8-cfe3-4779-afce-8162b47765b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'The current password is incorrect' or . = 'The current password is incorrect')]</value>
+      <webElementGuid>83bf39d3-edfe-4323-b096-50d29b4e32b7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Incorrect email address or password</name>
+   <tag></tag>
+   <elementGuidId>2b4ac4b5-07b3-4be9-8f48-31860c0c0e4f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.toast-body</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div/div/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3b0e7bdf-16c9-47a7-9dae-81531e1d2780</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>alert-message</value>
+      <webElementGuid>43a4ad63-4ee8-49ef-8a2b-955502f961f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>toast-body</value>
+      <webElementGuid>b6deed1b-b759-4657-9621-210e22fedc80</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Incorrect email address or password</value>
+      <webElementGuid>e2ee9b30-69d9-43fb-980b-87b246a892ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row mt-1&quot;]/div[@class=&quot;col-lg-5 col-md-8 m-auto rounded&quot;]/div[1]/div[@class=&quot;mt-1 ms-1 me-1 mb-1&quot;]/div[@class=&quot;w-100 toast align-items-center text-white bg-danger border-0 show&quot;]/div[@class=&quot;d-flex&quot;]/div[@class=&quot;toast-body&quot;]</value>
+      <webElementGuid>5f50fb1d-8d33-4d86-be3c-3d96a947c6c3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/div/div/div/div/div</value>
+      <webElementGuid>0a89f395-9e68-4838-bb43-63bcb44577f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[1]/following::div[5]</value>
+      <webElementGuid>d61e8b9c-c6c0-4a53-a06d-b7edc18f2038</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home - My Notes'])[1]/following::div[11]</value>
+      <webElementGuid>c38f6558-f910-4ad5-9501-1a97808d6f18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email address'])[1]/preceding::div[1]</value>
+      <webElementGuid>65355455-a151-4ba2-9e85-9fd4750ddd2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/preceding::div[3]</value>
+      <webElementGuid>40b18414-de96-4354-b8fa-93eff2d93dd0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Incorrect email address or password']/parent::*</value>
+      <webElementGuid>c89aba41-8c61-4676-ba28-6f27f8686432</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div/div/div/div/div/div/div/div/div</value>
+      <webElementGuid>89e45098-a512-4f52-91e8-0f3cc54fc33f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Incorrect email address or password' or . = 'Incorrect email address or password')]</value>
+      <webElementGuid>86b98be6-c161-4fea-bef5-6bfb347d96cb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

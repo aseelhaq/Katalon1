@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Click here to Log In</name>
+   <tag></tag>
+   <elementGuidId>80c0c3d7-f8b0-4396-a7c7-22d7c3366726</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div/div[2]/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.text-decoration-none.me-3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>48dacdec-a3b7-400c-9127-5c29afac4259</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>login-view</value>
+      <webElementGuid>74b521b3-1c27-4f42-aa58-2086910aad47</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/notes/app/login</value>
+      <webElementGuid>5673c631-2306-4357-8f27-8826c602a65b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-decoration-none me-3</value>
+      <webElementGuid>c7905087-197b-4b86-9635-6f3ee02cce14</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Click here to Log In</value>
+      <webElementGuid>f57fdbea-8c32-40fe-a227-34c0b31ad528</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row mt-1&quot;]/div[@class=&quot;col-lg-6 col-md-9 m-auto rounded&quot;]/div[@class=&quot;alert alert-success&quot;]/div[@class=&quot;text-center&quot;]/a[@class=&quot;text-decoration-none me-3&quot;]</value>
+      <webElementGuid>bc1562fe-b817-4b8b-8cff-e9277365783f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/div[2]/div/a</value>
+      <webElementGuid>9095bab5-aacf-4f3b-8c88-77722dccc6c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Click here to Log In')]</value>
+      <webElementGuid>ca96f6ed-16ef-46cf-a894-ba5bce443b5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='User account created successfully'])[1]/following::a[1]</value>
+      <webElementGuid>daf75ff7-444f-43db-bfc3-707012643157</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Register'])[1]/following::a[1]</value>
+      <webElementGuid>e97e6119-0115-45db-9060-a2bb40325ae6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Automation Testing Practice Website'])[1]/preceding::a[1]</value>
+      <webElementGuid>da629857-5095-4a13-8d3f-427af0c1dcce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Expand Testing'])[1]/preceding::a[1]</value>
+      <webElementGuid>8b46d00d-a123-49cf-a497-8f9935be1c3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Click here to Log In']/parent::*</value>
+      <webElementGuid>dfe6661f-a163-4d2e-81a0-fa1c575d0269</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/notes/app/login')]</value>
+      <webElementGuid>7c54dac6-7df2-4359-a8ab-cecca3bb26dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/a</value>
+      <webElementGuid>b96b7407-d0b5-477e-9d57-8f0af1802649</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/notes/app/login' and (text() = 'Click here to Log In' or . = 'Click here to Log In')]</value>
+      <webElementGuid>df5d0c82-3a4c-41a4-9aa8-ca47f3b35926</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Update password</name>
+   <tag></tag>
+   <elementGuidId>a0b7773c-ab63-4738-a87c-0532e377bcc0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-outline-primary</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/div/div/div/div/div[2]/div/form/div[4]/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>f9da22a1-a5a9-485a-9863-fcdf194fe91f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>update-password</value>
+      <webElementGuid>24d0ed6c-5165-4355-8964-9f92330828f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-outline-primary</value>
+      <webElementGuid>11267f3b-06ad-4407-99c0-9783d34be42c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Update password</value>
+      <webElementGuid>ac3b15be-fd1c-45c1-8d5a-e885558d9fba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-9 col-lg-7&quot;]/div[@class=&quot;tab-content mt-3&quot;]/div[@class=&quot;tab-pane active&quot;]/div[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-6&quot;]/form[1]/div[@class=&quot;form-group mb-3&quot;]/button[@class=&quot;btn btn-outline-primary&quot;]</value>
+      <webElementGuid>e8804b9d-f003-44cd-968d-1b4bee1d3511</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div/div/div/div/div[2]/div/form/div[4]/button</value>
+      <webElementGuid>e8248b4a-ba5f-4d6c-8850-3e9841b2932a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Confirm password'])[1]/following::button[1]</value>
+      <webElementGuid>aad70df3-fcde-4efb-99c5-15f3424fa103</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New password'])[1]/following::button[1]</value>
+      <webElementGuid>f1727db4-1e4f-4b76-9d1e-94672e6e9335</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Automation Testing Practice Website'])[1]/preceding::button[1]</value>
+      <webElementGuid>551c92f8-90ec-41b4-8541-353f37db92c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Expand Testing'])[1]/preceding::button[1]</value>
+      <webElementGuid>007d9fbc-d252-457b-adfd-eb6f717d50b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Update password']/parent::*</value>
+      <webElementGuid>668325a5-86a5-48f8-8f15-fe6ff7a668e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/button</value>
+      <webElementGuid>95830233-3ff7-4b10-8f2f-f5739ba618c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Update password' or . = 'Update password')]</value>
+      <webElementGuid>5a857fb8-77ce-4433-b69f-fe29cb9d0f2d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Profile updated successful</name>
+   <tag></tag>
+   <elementGuidId>907e7a6a-7748-47f5-8f93-77a94bad0be8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.toast-body</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/div/div/div/div/div/div[2]/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1cf66522-5b9a-40a6-b48e-58967cdcce1a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>alert-message</value>
+      <webElementGuid>3fdd1bee-734e-4a29-8457-f0987eba4ec4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>toast-body</value>
+      <webElementGuid>81549112-7a0c-4b32-8d1c-c92dcc40aa79</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Profile updated successful</value>
+      <webElementGuid>a80f4c38-bb98-4986-a253-9917099011ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-9 col-lg-7&quot;]/div[@class=&quot;tab-content mt-3&quot;]/div[@class=&quot;tab-pane active&quot;]/div[@class=&quot;mx-auto&quot;]/div[1]/div[2]/div[@class=&quot;mt-1 ms-1 me-1 mb-1&quot;]/div[@class=&quot;w-100 toast align-items-center text-white bg-success border-0 show&quot;]/div[@class=&quot;d-flex&quot;]/div[@class=&quot;toast-body&quot;]</value>
+      <webElementGuid>5d097644-8d7a-4a82-88f3-18e4ef4e56a3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div/div/div/div/div/div[2]/div/div/div/div</value>
+      <webElementGuid>9936cda8-c775-4316-b860-eeeb14321767</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Change password'])[1]/following::div[11]</value>
+      <webElementGuid>bc5f350e-e8ac-4d72-8499-31b8ae559851</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Account details'])[1]/following::div[11]</value>
+      <webElementGuid>9d1a4f84-d3b6-4f71-8ec5-fd3ce34f3df5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='User ID'])[1]/preceding::div[1]</value>
+      <webElementGuid>dcdec29c-977d-4741-bc97-7bb1c7f7f265</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email address'])[1]/preceding::div[2]</value>
+      <webElementGuid>e70451c3-25cd-4633-9e46-77528d42e3f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Profile updated successful']/parent::*</value>
+      <webElementGuid>fcd3037a-c7cb-4489-8910-598097601b7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div/div[2]/div/div/div/div</value>
+      <webElementGuid>290e29bc-2ddd-4a92-af9a-988d84365aae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Profile updated successful' or . = 'Profile updated successful')]</value>
+      <webElementGuid>3c15a208-29a4-45d8-87e8-facdc53f36e9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

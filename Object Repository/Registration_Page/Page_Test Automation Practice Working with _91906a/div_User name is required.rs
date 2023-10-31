@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_User name is required</name>
+   <tag></tag>
+   <elementGuidId>28aeb30d-0a2e-4706-ab60-da2b548ca83a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div/form/div/div/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>25901eac-49ea-4c70-ae63-845626264964</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>invalid-feedback</value>
+      <webElementGuid>945d0114-7740-4017-bcc4-783d2f33a5fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>User name is required</value>
+      <webElementGuid>6b6cdd62-1b7d-4f1c-82e2-94fe3ad3fb35</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row mt-1&quot;]/div[@class=&quot;col-lg-6 col-md-9 m-auto rounded&quot;]/form[@class=&quot;py-3 px-3&quot;]/div[@class=&quot;row my-0&quot;]/div[@class=&quot;col-md-6&quot;]/div[@class=&quot;form-group mb-2&quot;]/div[@class=&quot;invalid-feedback&quot;]</value>
+      <webElementGuid>7e18b3db-cbc6-44bc-8172-fabdcc7f6ffb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/form/div/div/div[2]/div</value>
+      <webElementGuid>48377732-8c36-4256-b8d7-b0f898c66648</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Name'])[1]/following::div[1]</value>
+      <webElementGuid>1bec2106-b39d-46d3-9e6a-1e573be9d148</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email address is invalid'])[1]/following::div[2]</value>
+      <webElementGuid>41c7b77d-d973-4624-a537-2b756e28d308</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/preceding::div[1]</value>
+      <webElementGuid>a7ee3017-c44a-4b89-be75-c9b167fbe4d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Confirm Password'])[1]/preceding::div[3]</value>
+      <webElementGuid>3091c3d1-cd44-4e8e-8e72-827e90fe5e9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='User name is required']/parent::*</value>
+      <webElementGuid>53222eb6-237c-44c2-9947-35c1a5f8bc02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[2]/div</value>
+      <webElementGuid>fab0b55b-783a-4f8c-882a-72484808bacb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'User name is required' or . = 'User name is required')]</value>
+      <webElementGuid>aff7f8ed-4f11-4765-af7e-6d97105f9c4a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

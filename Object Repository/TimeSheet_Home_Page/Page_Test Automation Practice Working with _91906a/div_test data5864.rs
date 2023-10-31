@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_test data5864</name>
+   <tag></tag>
+   <elementGuidId>5dc35e63-3268-4b7e-bdd0-25bb58c7d462</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/div/div[4]/div[2]/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.card-header.fw-bold.text-truncate</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2bf1c8aa-793d-4977-a93d-06c7ac1ea0a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>card-header fw-bold text-truncate</value>
+      <webElementGuid>40f571ab-d4be-4f99-b10e-41de02f7e88c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>note-card-title</value>
+      <webElementGuid>c80a16c8-06e9-483f-9491-e5db18f47324</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>test data5864</value>
+      <webElementGuid>82b75da5-d3ac-41a4-bf01-7d18816bae3e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row mt-3&quot;]/div[@class=&quot;col-12&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 col-sm-12 col-md-6 col-lg-4 mb-3&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-header fw-bold text-truncate&quot;]</value>
+      <webElementGuid>5a5da473-7ccb-4dc1-8808-b6332e7a93a0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div/div[4]/div[2]/div/div[2]</value>
+      <webElementGuid>28a8820b-4975-490e-bd04-9cc3224be959</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='You have 0/1 notes completed in the all categories'])[1]/following::div[6]</value>
+      <webElementGuid>c3f31b2f-d629-462a-8701-09b9e1625240</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('', '&quot;', 'test data5864', '&quot;', '')])[1]/following::div[9]</value>
+      <webElementGuid>94a44571-09bb-432d-ab77-c0f198fd3d78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View'])[1]/preceding::div[2]</value>
+      <webElementGuid>640910d7-166b-48d0-bcfe-01048733e8c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit'])[1]/preceding::div[2]</value>
+      <webElementGuid>05946272-4a4e-4b39-b3da-7e15b6134776</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/div/div[2]</value>
+      <webElementGuid>2ce590e9-acdd-41dd-8ade-9e0c7ac14950</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'test data5864' or . = 'test data5864')]</value>
+      <webElementGuid>95836925-96c4-4311-997d-7c2409e15070</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

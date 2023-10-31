@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify Searching with un existing note</name>
+   <tag>Regression</tag>
+   <comment></comment>
+   <testCaseGuid>905e90e7-ac97-48c4-932b-67d56f601d62</testCaseGuid>
+</TestCaseEntity>

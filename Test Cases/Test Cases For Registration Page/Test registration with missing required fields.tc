@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test registration with missing required fields</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>70560e6e-4499-4df1-8ae3-e368ed6c1c1d</testCaseGuid>
+</TestCaseEntity>

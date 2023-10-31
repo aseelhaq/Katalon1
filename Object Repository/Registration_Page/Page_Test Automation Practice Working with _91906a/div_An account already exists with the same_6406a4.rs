@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_An account already exists with the same_6406a4</name>
+   <tag></tag>
+   <elementGuidId>cf31c151-94ce-4869-b3f1-a3ff2627c294</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.toast-body</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div/div/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2c99b746-ab54-4cbc-b66e-960cee1064f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>alert-message</value>
+      <webElementGuid>c604878c-ef4e-4191-b4ee-cfd82622bb60</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>toast-body</value>
+      <webElementGuid>7b55e006-ce35-4bd9-b57b-669ee9ff0af5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>An account already exists with the same email address</value>
+      <webElementGuid>b171a0d2-1a82-4487-a9e8-c68cc7900870</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row mt-1&quot;]/div[@class=&quot;col-lg-6 col-md-9 m-auto rounded&quot;]/div[1]/div[@class=&quot;mt-1 ms-1 me-1 mb-1&quot;]/div[@class=&quot;w-100 toast align-items-center text-white bg-danger border-0 show&quot;]/div[@class=&quot;d-flex&quot;]/div[@class=&quot;toast-body&quot;]</value>
+      <webElementGuid>dbd23cde-103e-441a-b0d3-4ccc94d6d15c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/div/div/div/div/div</value>
+      <webElementGuid>2619b018-acee-4be9-b5bf-1c374369862e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Register'])[1]/following::div[5]</value>
+      <webElementGuid>55e82898-83a0-4a8c-b1fd-740cdc052c3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home - My Notes'])[1]/following::div[11]</value>
+      <webElementGuid>57244cfa-abe9-403d-8904-a733c772a42e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tip'])[1]/preceding::div[1]</value>
+      <webElementGuid>88c31bf4-be9a-4590-bdc1-9de06c38331b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email address'])[1]/preceding::div[1]</value>
+      <webElementGuid>4b3e39de-e147-4a62-8e10-7b28b5538faf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='An account already exists with the same email address']/parent::*</value>
+      <webElementGuid>d18d7956-dea4-486b-86ac-0f7a021f6773</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div/div/div/div/div/div/div/div/div</value>
+      <webElementGuid>1b0c86fd-8dee-48fa-ad3d-a314547e4c4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'An account already exists with the same email address' or . = 'An account already exists with the same email address')]</value>
+      <webElementGuid>43ed8b40-d5a7-46f0-90f4-9cf84fba857c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

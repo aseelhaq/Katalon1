@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_test work Note1</name>
+   <tag></tag>
+   <elementGuidId>46a1ee78-14bb-44cb-b4cd-82d7460d3e8a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.card-text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/div/div[4]/div[2]/div/div[3]/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>68e0b71b-4dd7-49d0-a47d-f89c585f07fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>note-card-description</value>
+      <webElementGuid>cf38d721-ff44-4cc9-823a-59a24db3db12</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>card-text</value>
+      <webElementGuid>11265279-0d1b-45c6-b2c0-b7ec233962ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>test work Note1</value>
+      <webElementGuid>c3254ed6-0d84-43b7-ae70-b53043a824ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row mt-3&quot;]/div[@class=&quot;col-12&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 col-sm-12 col-md-6 col-lg-4 mb-3&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body d-flex flex-column&quot;]/p[@class=&quot;card-text&quot;]</value>
+      <webElementGuid>87aa9730-c781-4b0c-a8d0-f691c218bed0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div/div[4]/div[2]/div/div[3]/p</value>
+      <webElementGuid>4e939678-0d03-4dd1-b539-73c316b086a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='test Work Notes1'])[1]/following::p[1]</value>
+      <webElementGuid>b89abd86-6d9a-4926-99ff-7a3366254917</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='You have 0/5 notes completed in the all categories'])[1]/following::p[1]</value>
+      <webElementGuid>3660f0a0-4ac5-423f-8305-408688423155</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View'])[1]/preceding::p[2]</value>
+      <webElementGuid>e2c78351-2a5b-4825-8c0c-d1db6e22eb31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit'])[1]/preceding::p[2]</value>
+      <webElementGuid>e3266b63-af66-490e-a1d0-45197e853a68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='test work Note1']/parent::*</value>
+      <webElementGuid>41beb32d-5fa8-485f-9f42-98e984b7a8ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>1d77d40c-27ab-40d6-811e-9164e392a50c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'test work Note1' or . = 'test work Note1')]</value>
+      <webElementGuid>5d6cdc6a-1e4d-4b2f-8cfc-da2db4b32195</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

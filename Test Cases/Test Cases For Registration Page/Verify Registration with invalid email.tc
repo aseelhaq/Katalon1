@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify Registration with invalid email</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cb9b8cec-ff90-4681-8170-12c5bdbd50dc</testCaseGuid>
+</TestCaseEntity>

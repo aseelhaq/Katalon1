@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify fail login with an incorrect username and emai</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>849ee9a3-0b41-4782-b6bc-9a480b4a51ec</testCaseGuid>
+</TestCaseEntity>

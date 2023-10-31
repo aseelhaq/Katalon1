@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_An e-mail with a link to reset the pass_5daeb7</name>
+   <tag></tag>
+   <elementGuidId>a420b23b-6c72-4ad0-895e-bb20df7510e9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.alert.alert-info</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2e87eab7-7ed1-4a3a-a47a-3eb9a4f3fa81</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>alert alert-info</value>
+      <webElementGuid>0fbcd37c-9cc1-43b0-9fd3-7e9cfb45324f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>alert-message</value>
+      <webElementGuid>4e088064-8da2-4128-878d-84bfcfd93aa9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>An e-mail with a link to reset the password has been sent to email12@test.comClick here to back to home page</value>
+      <webElementGuid>9d52437a-4021-49ce-a438-5bca76b20925</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row mt-1&quot;]/div[@class=&quot;col-lg-5 col-md-8 m-auto rounded&quot;]/div[@class=&quot;alert alert-info&quot;]</value>
+      <webElementGuid>52d5cf0f-c434-46ce-ab8d-5efd8455c251</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/div[2]</value>
+      <webElementGuid>bb0ab248-5d88-427e-b380-95af88cc863a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reset your password'])[1]/following::div[2]</value>
+      <webElementGuid>1139794c-d32b-4c91-b1c6-c2d288cbfe44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home - My Notes'])[1]/following::div[8]</value>
+      <webElementGuid>d7d9a2e4-4faa-466b-b626-d06a3fecfd07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Automation Testing Practice Website'])[1]/preceding::div[4]</value>
+      <webElementGuid>69290532-bb39-424a-9ca5-066b6e3ad47c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='An e-mail with a link to reset the password has been sent to']/parent::*</value>
+      <webElementGuid>bbbea568-ca09-40bf-8878-bcdaa445d7c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]</value>
+      <webElementGuid>03a14140-c238-4f77-9c72-ac0b2e8efe97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'An e-mail with a link to reset the password has been sent to email12@test.comClick here to back to home page' or . = 'An e-mail with a link to reset the password has been sent to email12@test.comClick here to back to home page')]</value>
+      <webElementGuid>962ab6ba-e789-4277-b08a-92834c88ee83</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>b_User account created successfully</name>
+   <tag></tag>
+   <elementGuidId>860f99e8-b3b4-4c23-8fd4-e547e5855800</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div/div[2]/b</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>b</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>ecb065f2-cfc8-42d9-aa24-c8e1934c6e79</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>User account created successfully</value>
+      <webElementGuid>b84afd6f-f106-4303-9147-56e1f3b9f860</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row mt-1&quot;]/div[@class=&quot;col-lg-6 col-md-9 m-auto rounded&quot;]/div[@class=&quot;alert alert-success&quot;]/b[1]</value>
+      <webElementGuid>be6568f1-f470-4ddd-a418-c4d8c32296b2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/div[2]/b</value>
+      <webElementGuid>ed7627d3-5f11-422e-b06a-29d9d54e9093</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Register'])[1]/following::b[1]</value>
+      <webElementGuid>c35fa685-0f5e-4b8b-85ed-e5523f0d21e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home - My Notes'])[1]/following::b[1]</value>
+      <webElementGuid>42707ff6-bf79-4acc-93d9-bfdd6997e520</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Click here to Log In'])[1]/preceding::b[1]</value>
+      <webElementGuid>9d70e8f1-064a-4be1-9a21-0584b1e3e273</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Automation Testing Practice Website'])[1]/preceding::b[1]</value>
+      <webElementGuid>3622e332-e8b7-445f-82e5-6180f84dcdf3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//b</value>
+      <webElementGuid>23636988-a22d-4efd-8dd1-114db6a2a54e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//b[(text() = 'User account created successfully' or . = 'User account created successfully')]</value>
+      <webElementGuid>8362de86-d25b-4e7d-a4e0-b978bfc6a578</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

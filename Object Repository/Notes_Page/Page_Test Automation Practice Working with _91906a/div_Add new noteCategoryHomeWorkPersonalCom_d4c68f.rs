@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Add new noteCategoryHomeWorkPersonalCom_d4c68f</name>
+   <tag></tag>
+   <elementGuidId>f579de06-f6a5-4d98-a939-f159071bb21d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/div/div[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.modal.modal-background.fade.show.bg-black.bg-opacity-75</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2c0109d4-1653-40ac-9b04-d626c445a26a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>dialog</value>
+      <webElementGuid>2f144921-9673-45be-9918-b1d5f641ec72</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-modal</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>c8623e1b-341c-47de-9ab4-692ed7079379</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>modal modal-background fade show bg-black bg-opacity-75</value>
+      <webElementGuid>6ca66cf6-72dc-414e-8c63-19e5b32b9414</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>f57ef7c2-b39b-4cb4-aa4b-1f1e4ee787a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add new noteCategory:HomeWorkPersonalCompletedTitle:Description:CreateCancel</value>
+      <webElementGuid>4a5b9c41-abf8-4a99-938a-314fef81b0d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row mt-3&quot;]/div[@class=&quot;col-12&quot;]/div[@class=&quot;modal modal-background fade show bg-black bg-opacity-75&quot;]</value>
+      <webElementGuid>d6106539-154a-48c7-9fac-d51757a1e443</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div/div[3]</value>
+      <webElementGuid>048892f4-0cf4-404f-b2ee-2caa5cdf5cf7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='+ Add Note'])[1]/following::div[1]</value>
+      <webElementGuid>de9be37c-6846-48a4-97d2-369820f98087</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='•'])[3]/following::div[2]</value>
+      <webElementGuid>309ab985-c4d9-4c78-b99a-aab4e900d64b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]</value>
+      <webElementGuid>930fa81b-ede6-4ee3-b7dd-ef9b071267e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Add new noteCategory:HomeWorkPersonalCompletedTitle:Description:CreateCancel' or . = 'Add new noteCategory:HomeWorkPersonalCompletedTitle:Description:CreateCancel')]</value>
+      <webElementGuid>86ea80bd-0cfb-4347-8a53-1975f97c4e8a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
